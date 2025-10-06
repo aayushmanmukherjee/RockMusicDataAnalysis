@@ -21,4 +21,19 @@ The analysis was done using **Python (Numpy, Pandas, Matplotlib, Seaborn)** to u
 
 ### Question: Observe the average danceability, energy and acousticness of top 10 artists (1956-1999)
 ### Answer:
-!
+![Question 1](./demo-assets/1.png)
+
+### Question: The top 3 song from 1960s
+### Answer:
+![Question 2](./demo-assets/2.png)
+
+### Question: Observe popularity of rock music by decades 1950s, 1960s, 1970s, 1980s, and 1990s
+### Answer:
+![Question 3](./demo-assets/3.png)
+
+## **View notebook**
+To explore all the findings and observe more such interesting insights view the entire notebook.
+
+[Link to the Jupyter notebook](https://colab.research.google.com/drive/1Nhwz-1X2uCcY36jDWNT2VN4Yuf9HvLMN?usp=sharing)
+
+[Link to PDF of the notebook](https://github.com/aayushmanmukherjee/RockMusicDataAnalysis/blob/main/rock_music_analysis_pdf.pdf)
